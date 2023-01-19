@@ -1,0 +1,10 @@
+{
+    "liveSassCompile.settings.formats": [
+      {
+        "format": "compressed", //minifikatsiya: ""
+        "extensionName": ".css", //qaysi formatga compile qilsin
+        "savePath": "/css" //scssda yozgan kodimizni qayerda compile qilsin
+      }
+    ],
+    "liveServer.settings.port": 5501
+  }
